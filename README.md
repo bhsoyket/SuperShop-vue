@@ -22,8 +22,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## API Setup
 
-# install dependencies
+# location
 cd supershop/shop_api
+
+# install dependencies
 npm install
 
 # serve with hot reload at localhost:3000
